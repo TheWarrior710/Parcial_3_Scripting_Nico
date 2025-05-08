@@ -1,0 +1,39 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Archivos de usuario
+UserSettings/
+MemoryCaptures/
+.vscode/
+.idea/
+
+# Archivos de sistema operativo
+*.swp
+*.swo
+*.tmp
+
+# Archivos de compilación
+*.apk
+*.aab
+*.unitypackage
+
+# Visual Studio / JetBrains
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.suo
+
+# Git
+.gitignore
+.gitattributes
