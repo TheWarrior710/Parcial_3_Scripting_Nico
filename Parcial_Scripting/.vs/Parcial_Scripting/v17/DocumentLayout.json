@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|c:\\users\\nicol\\documents\\github\\parcial_3_scripting_nico\\parcial_scripting\\assets\\scripts\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|c:\\users\\nicol\\documents\\github\\parcial_3_scripting_nico\\parcial_scripting\\assets\\scripts\\escena_maestra\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_maestra\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\clickbroadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\clickbroadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,6 +59,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:07:30.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:42:04.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ColorChanger.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ColorChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_2\\ColorChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:40:56.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClickBroadcaster.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:38:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ObjectSelectorUI.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\UI\\ObjectSelectorUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ObjectSelectorUI.cs",
@@ -50,12 +115,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\ObjectSelectorUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T05:38:24.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T05:38:24.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CylinderFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\CylinderFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\CylinderFactory.cs",
@@ -67,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SphereFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\SphereFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\SphereFactory.cs",
@@ -79,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ObjectSelectorUI.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\UI\\ObjectSelectorUI.cs",
               "RelativeDocumentMoniker": "Assets\\UI\\ObjectSelectorUI.cs",
@@ -90,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ObjectSpawnerFacade.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Fecade\\ObjectSpawnerFacade.cs",
               "RelativeDocumentMoniker": "Assets\\Fecade\\ObjectSpawnerFacade.cs",
@@ -102,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CubeFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\CubeFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\CubeFactory.cs",
@@ -114,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IObjectFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\IObjectFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\IObjectFactory.cs",
