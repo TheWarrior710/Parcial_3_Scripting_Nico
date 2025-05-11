@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|c:\\users\\nicol\\documents\\github\\parcial_3_scripting_nico\\parcial_scripting\\assets\\factory\\cubefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\factory\\iobjectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\factory\\spherefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\factory\\spherefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\objectselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\factory\\spherefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\factory\\spherefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\fecade\\objectspawnerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CylinderFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\CylinderFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\CylinderFactory.cs",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "Assets\\Factory\\CylinderFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:13:26.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T07:13:26.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SphereFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\SphereFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\SphereFactory.cs",
@@ -63,15 +62,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ObjectSelectorUI.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\UI\\ObjectSelectorUI.cs",
               "RelativeDocumentMoniker": "Assets\\UI\\ObjectSelectorUI.cs",
               "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\UI\\ObjectSelectorUI.cs",
               "RelativeToolTip": "Assets\\UI\\ObjectSelectorUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T06:41:31.801Z"
+              "WhenOpened": "2025-05-08T06:41:31.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
