@@ -1,6 +1,33 @@
-# Auto detect text files and perform LF normalization
+# Trata todos los archivos de texto como texto y normaliza los finales de línea a LF
+* text=auto eol=lf
 
-* text=auto
+# Archivos de Unity que deben tratarse como texto
+*.cs text
+*.shader text
+*.cginc text
+*.hlsl text
+*.txt text
+*.asmdef text
+*.json text
+*.xml text
+*.yml text
+*.yaml text
+*.meta text
+*.unity text
+*.prefab text
+*.mat text
 
-*.jpj binary
+# Archivos binarios - Git no los intenta modificar
 *.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.fbx binary
+*.mp3 binary
+*.mp4 binary
+*.wav binary
+*.ogg binary
+*.dll binary
+*.exe binary
+
+# Ignorar carpetas innecesarias como Library, Temp, etc. en .gitignore (por separado)
