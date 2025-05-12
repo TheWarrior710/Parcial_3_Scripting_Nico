@@ -1,4 +1,3 @@
-// ShooterController.cs
 using UnityEngine;
 
 public class ShooterController : MonoBehaviour
@@ -24,6 +23,7 @@ public class ShooterController : MonoBehaviour
         }
     }
 
+
     void Shoot()
     {
         GameObject projectile = null;
@@ -48,4 +48,5 @@ public class ShooterController : MonoBehaviour
             projectile.GetComponent<Projectile>().Launch(firePoint.forward, 10f);
         }
     }
+
 }

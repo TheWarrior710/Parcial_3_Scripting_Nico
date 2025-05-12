@@ -1,4 +1,3 @@
-
 using UnityEngine;
 
 public abstract class Projectile : MonoBehaviour
@@ -9,6 +8,7 @@ public abstract class Projectile : MonoBehaviour
     {
         GetComponent<Rigidbody>().linearVelocity = direction * force;
     }
+
 
     private void OnTriggerEnter(Collider other)
     {
