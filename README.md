@@ -2,6 +2,7 @@
 
 
 Jhohan Nicolas Sedano Correa - ID : 000522547
+email : jhohan.sedano@upb.edu.co
 
 https://drive.google.com/file/d/1mKiQ-DBeN6sQeGnjS9nvH4vBDwdaiZ4d/view?usp=sharing
 
