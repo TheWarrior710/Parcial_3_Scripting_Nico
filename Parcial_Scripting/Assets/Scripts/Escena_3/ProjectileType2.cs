@@ -16,5 +16,8 @@ public class ProjectileType2 : Projectile
         col.enabled = true;
         Debug.Log("Collider reactivado.");
     }
+
+ 
+
 }
 

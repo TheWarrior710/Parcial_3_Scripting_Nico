@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|c:\\users\\nicol\\documents\\github\\parcial_3_scripting_nico\\parcial_scripting\\assets\\scripts\\escena_2\\clickbroadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\clickbroadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_maestra\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_maestra\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectilepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectilepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\shootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\shootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype2pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype2pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_1\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_1\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Escena_3\\ProjectileType3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\OnCollisionEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Escena_3\\OnCollisionEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\shootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\shootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype3pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype3pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype1pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype1pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectiletype1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectiletype1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_3\\projectilepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_3\\projectilepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_2\\clickbroadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_2\\clickbroadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_1\\factory\\spherefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_1\\factory\\spherefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_1\\factory\\iobjectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_1\\factory\\iobjectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_1\\factory\\cubefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_1\\factory\\cubefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_maestra\\dontdestroymusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_maestra\\dontdestroymusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\assets\\scripts\\escena_maestra\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1700CAE-C1B3-2722-3114-CEEA38905556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escena_maestra\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\UI\\ObjectSelectorUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,107 +114,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShooterController.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ShooterController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ShooterController.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ShooterController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ShooterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:38:52.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProjectileType3.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:35:06.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProjectileType2.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:33:26.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProjectileType1.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:32:35.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\Projectile.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\Projectile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:29:10.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectilePool.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:25:58.37Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SceneLoader.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "CylinderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\CylinderFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_1\\Factory\\CylinderFactory.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\CylinderFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_1\\Factory\\CylinderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:07:30.675Z"
+              "WhenOpened": "2025-05-12T04:03:29.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConsoleLogger.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "IObjectFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\IObjectFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_1\\Factory\\IObjectFactory.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\IObjectFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_1\\Factory\\IObjectFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:42:04.849Z"
+              "WhenOpened": "2025-05-12T04:03:36.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "ColorChanger.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ColorChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ColorChanger.cs",
@@ -190,7 +155,118 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectileType2.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:33:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectileType1.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:32:35.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectileType3.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:35:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectilePool.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectilePool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:25:58.37Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\Projectile.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:29:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectileType2Pool.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType2Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType2Pool.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType2Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType2Pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:04:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShooterController.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ShooterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ShooterController.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ShooterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ShooterController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:38:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnCollisionEnter.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\OnCollisionEnter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\OnCollisionEnter.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\OnCollisionEnter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\OnCollisionEnter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:24:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CubeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\CubeFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_1\\Factory\\CubeFactory.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\CubeFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_1\\Factory\\CubeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:03:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ClickBroadcaster.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
@@ -198,12 +274,83 @@
               "RelativeToolTip": "Assets\\Scripts\\Escena_2\\ClickBroadcaster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:38:54.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T21:38:54.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_2\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:42:04.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_Maestra\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:07:30.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectileType3Pool.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType3Pool.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType3Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType3Pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:05:04.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectileType1Pool.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType1Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_3\\ProjectileType1Pool.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_3\\ProjectileType1Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_3\\ProjectileType1Pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:04:46.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DontDestroyMusic.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\DontDestroyMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_Maestra\\DontDestroyMusic.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_Maestra\\DontDestroyMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_Maestra\\DontDestroyMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:57:34.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SphereFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\SphereFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Escena_1\\Factory\\SphereFactory.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\Escena_1\\Factory\\SphereFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Escena_1\\Factory\\SphereFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:03:42.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "ObjectSelectorUI.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Scripts\\UI\\ObjectSelectorUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ObjectSelectorUI.cs",
@@ -215,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "CylinderFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\CylinderFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\CylinderFactory.cs",
@@ -227,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "SphereFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\SphereFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\SphereFactory.cs",
@@ -239,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ObjectSelectorUI.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\UI\\ObjectSelectorUI.cs",
               "RelativeDocumentMoniker": "Assets\\UI\\ObjectSelectorUI.cs",
@@ -250,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "ObjectSpawnerFacade.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Fecade\\ObjectSpawnerFacade.cs",
               "RelativeDocumentMoniker": "Assets\\Fecade\\ObjectSpawnerFacade.cs",
@@ -262,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "CubeFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\CubeFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\CubeFactory.cs",
@@ -274,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "IObjectFactory.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Parcial_3_Scripting_Nico\\Parcial_Scripting\\Assets\\Factory\\IObjectFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Factory\\IObjectFactory.cs",

@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class ShooterController : MonoBehaviour
@@ -48,5 +49,9 @@ public class ShooterController : MonoBehaviour
             projectile.GetComponent<Projectile>().Launch(firePoint.forward, 10f);
         }
     }
+
+
+   
+
 
 }
